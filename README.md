@@ -8,7 +8,7 @@
 
 > Html, Css, JavaScript, Bootstrap, Python & Django
 
-
+<img src="./img.avif">
 
 # Features
 
